@@ -1,3 +1,4 @@
+
 ---
 # 🚀 **Text Mining Framework: Political Document Classification** 🗳️
 
@@ -7,6 +8,7 @@ Welcome to **Text Mining** — a Python-based framework designed to automate the
 **Course**: Data Mining and Machine Learning - University Exam Project
 
 ---
+
 
 ## 📜 **Project Overview**
 
