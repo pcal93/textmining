@@ -5,6 +5,7 @@
 Welcome to **Text Mining** — a Python-based framework designed to automate the classification of political documents, particularly **Q\&A sessions** from parliamentary institutions. The aim of this project is to build a powerful, flexible, and fast framework that can be easily embedded into web applications. It’s built to save time, streamline the debugging process, and ultimately classify political content more efficiently.
 
 **Authors**: Pietro Calabrese, Alberto Caruso
+
 **Course**: Data Mining and Machine Learning - University Exam Project
 
 ---
