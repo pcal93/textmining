@@ -32,7 +32,7 @@ This project uses two main datasets to train and evaluate our models:
    A collection of Q\&A sessions from the Italian Senate provided by the course instructor.
 
 2. **Indian Parliamentary Q\&A Dataset** 🇮🇳
-   A dataset containing Q\&A sessions from the Indian Parliament. [Link to dataset](#)
+   A dataset containing Q\&A sessions from the Indian Parliament. [Link to dataset](https://www.kaggle.com/datasets/rajanand/rajyasabha)
 
 These datasets offer a rich variety of parliamentary documents and provide the ideal challenge for our classification system.
 
